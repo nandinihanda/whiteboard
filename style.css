@@ -10,6 +10,7 @@ body{
   {
       color: rgb(247, 239, 239); 
       font-size: 40px;
+      font-family: cursive;
   }
   #myCanvas
   {
